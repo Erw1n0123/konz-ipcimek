@@ -7,8 +7,22 @@ using System.Threading.Tasks;
 
 namespace csudh
 {
-    internal class Program
+    
+    public class Program
     {
+        public static string function(string nev, int szint)
+            {
+                string ertek;
+                try
+                {
+                   ertek= nev.Split('.')[nev.Split('.').Length- szint];
+                }
+                catch (Exception)
+                {
+                    ertek = "nincs";
+                }
+                return ertek;
+            }
         static void Main(string[] args)
         {
             List<Domain> list = new List<Domain>();
@@ -35,19 +49,7 @@ namespace csudh
 
             Console.ReadKey();
 
-            string function(string nev, int szint)
-            {
-                string ertek;
-                try
-                {
-                   ertek= nev.Split('.')[nev.Split('.').Length- szint];
-                }
-                catch (Exception)
-                {
-                    ertek = "nincs";
-                }
-                return ertek;
-            }
+            
 
         }
     }

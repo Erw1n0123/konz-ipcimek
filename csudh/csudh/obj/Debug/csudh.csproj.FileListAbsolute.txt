@@ -1,0 +1,9 @@
+C:\Users\Ervin\Desktop\asztali\ipcimek\konz-ipcimek\csudh\csudh\bin\Debug\csudh.exe.config
+C:\Users\Ervin\Desktop\asztali\ipcimek\konz-ipcimek\csudh\csudh\bin\Debug\csudh.exe
+C:\Users\Ervin\Desktop\asztali\ipcimek\konz-ipcimek\csudh\csudh\bin\Debug\csudh.pdb
+C:\Users\Ervin\Desktop\asztali\ipcimek\konz-ipcimek\csudh\csudh\obj\Debug\csudh.csproj.AssemblyReference.cache
+C:\Users\Ervin\Desktop\asztali\ipcimek\konz-ipcimek\csudh\csudh\obj\Debug\csudh.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ervin\Desktop\asztali\ipcimek\konz-ipcimek\csudh\csudh\obj\Debug\csudh.csproj.CoreCompileInputs.cache
+C:\Users\Ervin\Desktop\asztali\ipcimek\konz-ipcimek\csudh\csudh\obj\Debug\csudh.exe
+C:\Users\Ervin\Desktop\asztali\ipcimek\konz-ipcimek\csudh\csudh\obj\Debug\csudh.pdb
+C:\Users\Ervin\Desktop\asztali\ipcimek\konz-ipcimek\csudh\csudh\bin\Debug\csudh.txt
